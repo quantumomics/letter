@@ -11,6 +11,8 @@ Letter<suu>®</sup>, is an invention of Prabhat Kumar for lettring the letter. I
 
 | Invented ------------------------------------------------  |
 
+| Numerals System
+
 | μ | - lowering tone
 
 | ρ | - raising tone
