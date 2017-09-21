@@ -1,2 +1,2 @@
-# letter
-Letter - a letter font for Kumar Letter.
+# Letter<suu>®</sup>
+Letter<suu>®</sup> - a letter font for Kumar Letter.
